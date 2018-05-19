@@ -12,7 +12,7 @@ here: https://www.anaconda.com/download/#macos
 
 This distribution already comes with some of the above libraries, as well as the Jupyter application for running Jupyter notebooks. To install the above packages using Anaconda, just issue a command in your terminal in the following format:
 
-**conda install <library-name>**
+**conda install library-name**
 
 For example, to install Numpy, you can issue the command **conda install numpy**. We have listed the Anaconda installation commands for all of the libraries below for your convenience.
 
@@ -21,4 +21,4 @@ For example, to install Numpy, you can issue the command **conda install numpy**
 - **conda install sklearn**
 - **conda install matplotlib**
 
-
+Once you have Anaconda installed, to start the Jupyter Notebook application you can either go to the Anaconda navigator and click on "Jupyter" or go to your terminal and type **jupyter notebook**.
